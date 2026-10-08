@@ -1,4 +1,4 @@
-# 🛡️ Cibersegurança & SOC Home Lab
+# Cibersegurança & SOC Home Lab
 
 Bem-vindo ao meu **Laboratório Pessoal de Operações de Segurança (SOC)**.
 
@@ -6,7 +6,7 @@ Este repositório é o meu diário tático de estudos práticos. Aqui eu documen
 
 ---
 
-### 📂 Índice de Laboratórios
+### Índice de Laboratórios
 
 | Lab | Tema | Foco Técnico | Status |
 | :---: | :--- | :--- | :---: |
@@ -15,7 +15,7 @@ Este repositório é o meu diário tático de estudos práticos. Aqui eu documen
 
 ---
 
-### 🔧 Ferramentas Utilizadas neste Repositório
+### Ferramentas Utilizadas neste Repositório
 *   **Virtualização:** QEMU/KVM
 *   **Sistemas:** Kali Linux, Debian, Windows Server
 *   **Network Sniffing:** Wireshark, tcpdump
